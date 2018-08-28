@@ -25,7 +25,7 @@ SECRET_KEY = 'lv%d*3bfq@c!x0l356-*8x)h48%z+@fr0ya!-8jwaa_n6_nh*m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://ngeresam.pythonanywhere.com/']
 
 
 # Application definition
